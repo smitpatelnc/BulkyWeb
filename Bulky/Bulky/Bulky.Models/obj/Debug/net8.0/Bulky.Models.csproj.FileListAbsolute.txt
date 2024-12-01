@@ -1,0 +1,12 @@
+D:\Personal Projects\Bulky\Bulky.Models\bin\Debug\net8.0\Bulky.Models.deps.json
+D:\Personal Projects\Bulky\Bulky.Models\bin\Debug\net8.0\Bulky.Models.dll
+D:\Personal Projects\Bulky\Bulky.Models\bin\Debug\net8.0\Bulky.Models.pdb
+D:\Personal Projects\Bulky\Bulky.Models\obj\Debug\net8.0\Bulky.Models.csproj.AssemblyReference.cache
+D:\Personal Projects\Bulky\Bulky.Models\obj\Debug\net8.0\Bulky.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personal Projects\Bulky\Bulky.Models\obj\Debug\net8.0\Bulky.Models.AssemblyInfoInputs.cache
+D:\Personal Projects\Bulky\Bulky.Models\obj\Debug\net8.0\Bulky.Models.AssemblyInfo.cs
+D:\Personal Projects\Bulky\Bulky.Models\obj\Debug\net8.0\Bulky.Models.csproj.CoreCompileInputs.cache
+D:\Personal Projects\Bulky\Bulky.Models\obj\Debug\net8.0\Bulky.Models.dll
+D:\Personal Projects\Bulky\Bulky.Models\obj\Debug\net8.0\refint\Bulky.Models.dll
+D:\Personal Projects\Bulky\Bulky.Models\obj\Debug\net8.0\Bulky.Models.pdb
+D:\Personal Projects\Bulky\Bulky.Models\obj\Debug\net8.0\ref\Bulky.Models.dll
