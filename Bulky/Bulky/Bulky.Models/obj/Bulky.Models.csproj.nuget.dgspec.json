@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Personal Projects\\Bulky\\Bulky.Models\\Bulky.Models.csproj": {}
+    "D:\\Personal Projects\\BulkyWeb\\Bulky\\Bulky\\Bulky.Models\\Bulky.Models.csproj": {}
   },
   "projects": {
-    "D:\\Personal Projects\\Bulky\\Bulky.Models\\Bulky.Models.csproj": {
+    "D:\\Personal Projects\\BulkyWeb\\Bulky\\Bulky\\Bulky.Models\\Bulky.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Personal Projects\\Bulky\\Bulky.Models\\Bulky.Models.csproj",
+        "projectUniqueName": "D:\\Personal Projects\\BulkyWeb\\Bulky\\Bulky\\Bulky.Models\\Bulky.Models.csproj",
         "projectName": "Bulky.Models",
-        "projectPath": "D:\\Personal Projects\\Bulky\\Bulky.Models\\Bulky.Models.csproj",
+        "projectPath": "D:\\Personal Projects\\BulkyWeb\\Bulky\\Bulky\\Bulky.Models\\Bulky.Models.csproj",
         "packagesPath": "C:\\Users\\smitp\\.nuget\\packages\\",
-        "outputPath": "D:\\Personal Projects\\Bulky\\Bulky.Models\\obj\\",
+        "outputPath": "D:\\Personal Projects\\BulkyWeb\\Bulky\\Bulky\\Bulky.Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

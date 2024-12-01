@@ -1,21 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Personal Projects\\Bulky\\BulkyWeb\\",
+  "WorkspaceRootPath": "D:\\Personal Projects\\BulkyWeb\\Bulky\\Bulky\\BulkyWeb\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6AF4C665-039F-4724-89DD-F81E3ED04ED9}|BulkyWeb.csproj|d:\\personal projects\\bulky\\bulkyweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6AF4C665-039F-4724-89DD-F81E3ED04ED9}|BulkyWeb.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6AF4C665-039F-4724-89DD-F81E3ED04ED9}|BulkyWeb.csproj|d:\\personal projects\\bulky\\bulkyweb\\areas\\admin\\views\\company\\upsert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{6AF4C665-039F-4724-89DD-F81E3ED04ED9}|BulkyWeb.csproj|d:\\personal projects\\bulkyweb\\bulky\\bulky\\bulkyweb\\areas\\admin\\views\\company\\upsert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{6AF4C665-039F-4724-89DD-F81E3ED04ED9}|BulkyWeb.csproj|solutionrelative:areas\\admin\\views\\company\\upsert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6AF4C665-039F-4724-89DD-F81E3ED04ED9}|BulkyWeb.csproj|d:\\personal projects\\bulky\\bulkyweb\\areas\\admin\\controllers\\companycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6AF4C665-039F-4724-89DD-F81E3ED04ED9}|BulkyWeb.csproj|d:\\personal projects\\bulkyweb\\bulky\\bulky\\bulkyweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6AF4C665-039F-4724-89DD-F81E3ED04ED9}|BulkyWeb.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AF4C665-039F-4724-89DD-F81E3ED04ED9}|BulkyWeb.csproj|d:\\personal projects\\bulkyweb\\bulky\\bulky\\bulkyweb\\areas\\admin\\controllers\\companycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6AF4C665-039F-4724-89DD-F81E3ED04ED9}|BulkyWeb.csproj|solutionrelative:areas\\admin\\controllers\\companycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6AF4C665-039F-4724-89DD-F81E3ED04ED9}|BulkyWeb.csproj|d:\\personal projects\\bulky\\bulkyweb\\wwwroot\\js\\company.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "AbsoluteMoniker": "D:0:0:{6AF4C665-039F-4724-89DD-F81E3ED04ED9}|BulkyWeb.csproj|d:\\personal projects\\bulkyweb\\bulky\\bulky\\bulkyweb\\wwwroot\\js\\company.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{6AF4C665-039F-4724-89DD-F81E3ED04ED9}|BulkyWeb.csproj|solutionrelative:wwwroot\\js\\company.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     }
   ],
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,26 +50,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\Personal Projects\\Bulky\\BulkyWeb\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "D:\\Personal Projects\\BulkyWeb\\Bulky\\Bulky\\BulkyWeb\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\Personal Projects\\Bulky\\BulkyWeb\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Personal Projects\\BulkyWeb\\Bulky\\Bulky\\BulkyWeb\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAADwAAAAAAAAAAAAAAEcAAAA6AAAAAAAAAA==",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAEUAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-12-01T19:36:48.044Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Upsert.cshtml",
-              "DocumentMoniker": "D:\\Personal Projects\\Bulky\\BulkyWeb\\Areas\\Admin\\Views\\Company\\Upsert.cshtml",
+              "DocumentMoniker": "D:\\Personal Projects\\BulkyWeb\\Bulky\\Bulky\\BulkyWeb\\Areas\\Admin\\Views\\Company\\Upsert.cshtml",
               "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Company\\Upsert.cshtml",
-              "ToolTip": "D:\\Personal Projects\\Bulky\\BulkyWeb\\Areas\\Admin\\Views\\Company\\Upsert.cshtml",
+              "ToolTip": "D:\\Personal Projects\\BulkyWeb\\Bulky\\Bulky\\BulkyWeb\\Areas\\Admin\\Views\\Company\\Upsert.cshtml",
               "RelativeToolTip": "Areas\\Admin\\Views\\Company\\Upsert.cshtml",
-              "ViewState": "AgIAAEAAAAAAAAAAAAAIwFMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAYAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-12-01T19:33:15.656Z",
               "EditorCaption": ""
@@ -78,27 +78,25 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "company.js",
-              "DocumentMoniker": "D:\\Personal Projects\\Bulky\\BulkyWeb\\wwwroot\\js\\company.js",
+              "DocumentMoniker": "D:\\Personal Projects\\BulkyWeb\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\js\\company.js",
               "RelativeDocumentMoniker": "wwwroot\\js\\company.js",
-              "ToolTip": "D:\\Personal Projects\\Bulky\\BulkyWeb\\wwwroot\\js\\company.js",
+              "ToolTip": "D:\\Personal Projects\\BulkyWeb\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\js\\company.js",
               "RelativeToolTip": "wwwroot\\js\\company.js",
               "ViewState": "AgIAAAkAAAAAAAAAAAAwwBgAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-12-01T19:23:47.526Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-01T19:23:47.526Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "CompanyController.cs",
-              "DocumentMoniker": "D:\\Personal Projects\\Bulky\\BulkyWeb\\Areas\\Admin\\Controllers\\CompanyController.cs",
+              "DocumentMoniker": "D:\\Personal Projects\\BulkyWeb\\Bulky\\Bulky\\BulkyWeb\\Areas\\Admin\\Controllers\\CompanyController.cs",
               "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\CompanyController.cs",
-              "ToolTip": "D:\\Personal Projects\\Bulky\\BulkyWeb\\Areas\\Admin\\Controllers\\CompanyController.cs",
+              "ToolTip": "D:\\Personal Projects\\BulkyWeb\\Bulky\\Bulky\\BulkyWeb\\Areas\\Admin\\Controllers\\CompanyController.cs",
               "RelativeToolTip": "Areas\\Admin\\Controllers\\CompanyController.cs",
               "ViewState": "AgIAAD8AAAAAAAAAAADwvywAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T18:44:12.863Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-01T18:44:12.863Z"
             }
           ]
         },

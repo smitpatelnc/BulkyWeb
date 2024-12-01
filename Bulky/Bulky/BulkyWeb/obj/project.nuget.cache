@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VVW/j0hdVBE=",
+  "dgSpecHash": "RQuq0aXANIw=",
   "success": true,
-  "projectFilePath": "D:\\Personal Projects\\Bulky\\BulkyWeb\\BulkyWeb.csproj",
+  "projectFilePath": "D:\\Personal Projects\\BulkyWeb\\Bulky\\Bulky\\BulkyWeb\\BulkyWeb.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\smitp\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\smitp\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
