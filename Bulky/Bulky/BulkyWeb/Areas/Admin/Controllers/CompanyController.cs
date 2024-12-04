@@ -12,7 +12,7 @@ using Microsoft.AspNetCore.Mvc.Rendering;
 namespace BulkyWeb.Areas.Admin.Controllers
 {
     [Area("Admin")]
-    [Authorize(Roles = SD.Role_Admin)]
+    //[Authorize(Roles = SD.Role_Admin)]
     public class CompanyController : Controller
     {
         private readonly IUnitOfWork _UnitOfWork;
@@ -30,14 +30,16 @@ namespace BulkyWeb.Areas.Admin.Controllers
 
         public IActionResult Upsert(int? id)
         {
+
+
             if (id == null || id == 0)
             {
-                // Create a new company
+                //create
                 return View(new Company());
             }
             else
             {
-                // Update existing company
+                //update
                 Company companyObj = _UnitOfWork.Company.Get(u => u.Id == id);
                 return View(companyObj);
             }
@@ -48,7 +50,7 @@ namespace BulkyWeb.Areas.Admin.Controllers
         {
             if (ModelState.IsValid)
             {
-              
+
                 if (companyObj.Id == 0)
                 {
                     _UnitOfWork.Company.Add(companyObj);
@@ -66,7 +68,6 @@ namespace BulkyWeb.Areas.Admin.Controllers
             {
                 return View(companyObj);
             }
-
         }
 
 
@@ -87,6 +88,7 @@ namespace BulkyWeb.Areas.Admin.Controllers
 			{
 				return Json(new { success = false, message = "Error while deleting" });
 			}
+
 			_UnitOfWork.Company.Remove(companyToBeDeleted);
 			_UnitOfWork.Save();
 
