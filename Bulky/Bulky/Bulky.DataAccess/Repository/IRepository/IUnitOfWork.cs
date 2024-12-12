@@ -12,6 +12,9 @@ namespace Bulky.DataAccess.Repository.IRepository
         ICategoryRepository Category { get; }
        IproductRepository Product { get; }
         ICompanyRepository Company { get; }
+        IShoppingCartRepository ShoppingCart { get; }
+
+        IApplicationuserRepository Applicationuser { get; }
         void Save();
     }
 }
