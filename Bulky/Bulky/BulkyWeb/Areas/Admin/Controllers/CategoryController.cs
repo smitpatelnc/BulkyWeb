@@ -30,11 +30,6 @@ namespace BulkyWeb.Areas.Admin.Controllers
         [HttpPost]
         public IActionResult Create(Category obj)
         {
-            //if (obj.Name == obj.DisplayOrder.ToString())
-            //{
-            //    ModelState.AddModelError("name", "The Display Order Cannot Exactly Match The Name");
-            //}
-
             if (ModelState.IsValid)
             {
                 _UnitOfWork.Category.Add(obj);
