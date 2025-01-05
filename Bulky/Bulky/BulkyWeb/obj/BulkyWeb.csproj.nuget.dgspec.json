@@ -296,6 +296,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Authentication.Facebook": {
+              "target": "Package",
+              "version": "[8.0.0-preview.1.23112.2, )"
+            },
+            "Microsoft.AspNetCore.AzureAppServices.HostingStartup": {
+              "target": "Package",
+              "version": "[8.0.0-preview.1.23112.2, )"
+            },
             "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
               "target": "Package",
               "version": "[8.0.11, )"
@@ -323,6 +331,10 @@
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
               "version": "[8.0.7, )"
+            },
+            "Stripe.net": {
+              "target": "Package",
+              "version": "[47.2.0, )"
             },
             "jQuery.Validation": {
               "target": "Package",
