@@ -13,12 +13,32 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "D:\\Personal Projects\\BulkyWeb\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\images\\book.png",
+      "PackagePath": "staticwebassets\\images\\book.png"
+    },
+    {
+      "Id": "D:\\Personal Projects\\BulkyWeb\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\images\\lawn_leaf.jpg",
+      "PackagePath": "staticwebassets\\images\\lawn_leaf.jpg"
+    },
+    {
+      "Id": "D:\\Personal Projects\\BulkyWeb\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\images\\product\\0aef8487-da4d-4d91-bdcf-b45fa6ffc6fe.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\0aef8487-da4d-4d91-bdcf-b45fa6ffc6fe.jpg"
+    },
+    {
+      "Id": "D:\\Personal Projects\\BulkyWeb\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\images\\product\\58dffac4-0389-486c-8fbb-ec01344f580f.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\58dffac4-0389-486c-8fbb-ec01344f580f.jpg"
+    },
+    {
       "Id": "D:\\Personal Projects\\BulkyWeb\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\images\\product\\e6e9854e-3943-4efd-a790-3bb9c553084e.jpg",
       "PackagePath": "staticwebassets\\images\\product\\e6e9854e-3943-4efd-a790-3bb9c553084e.jpg"
     },
     {
       "Id": "D:\\Personal Projects\\BulkyWeb\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\js\\company.js",
       "PackagePath": "staticwebassets\\js\\company.js"
+    },
+    {
+      "Id": "D:\\Personal Projects\\BulkyWeb\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\js\\order.js",
+      "PackagePath": "staticwebassets\\js\\order.js"
     },
     {
       "Id": "D:\\Personal Projects\\BulkyWeb\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\js\\product.js",
