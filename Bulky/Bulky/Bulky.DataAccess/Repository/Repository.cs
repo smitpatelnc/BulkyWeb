@@ -27,24 +27,18 @@ namespace Bulky.DataAccess.Repository
 
         public T Get(Expression<Func<T, bool>> filter, string? includeProperties = null, bool tracked = false)
         {
+            IQueryable<T> query;
             if (tracked)
             {
-                IQueryable<T> query = dbSet;
+                query = dbSet;
 
-                if (!string.IsNullOrEmpty(includeProperties))
-                {
-                    foreach (var includeProp in includeProperties
-                        .Split(new char[] { ',' }, StringSplitOptions.RemoveEmptyEntries))
-                    {
-                        query = query.Include(includeProp);
-                    }
-                }
-                //query = query.Where(filter);
-                return query.FirstOrDefault();
-            }   
+            }
             else
             {
-                IQueryable<T> query = dbSet.AsNoTracking();
+                query = dbSet.AsNoTracking();
+            }
+
+                query = query.Where(filter);
                 if (!string.IsNullOrEmpty(includeProperties))
                 {
                     foreach (var includeProp in includeProperties
@@ -53,14 +47,20 @@ namespace Bulky.DataAccess.Repository
                         query = query.Include(includeProp);
                     }
                 }
-                //query = query.Where(filter);
                 return query.FirstOrDefault();
-            }
+
+               
+               
         }
-        public IEnumerable<T> GetAll(string? includeProperties = null)
+        public IEnumerable<T> GetAll(Expression<Func<T, bool>>? filter, string? includeProperties = null)
         {
      
-            IQueryable<T> query = dbSet;
+            IQueryable<T> query = dbSet;    
+            if(filter!=null )
+            {
+                query = query.Where(filter); 
+            }
+            
             if (!string.IsNullOrEmpty(includeProperties))
             {
                 foreach (var includeProp in includeProperties
