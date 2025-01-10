@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "XlecJJV6tyPvpbAbeA0Qct3BHhxUDusZ4+/zMgnz/t8=",
+  "Hash": "Gkr7ue0yI6kKOrmzTE99ojK4zaH0tDDh8q3p5ViBwTM=",
   "Source": "BulkyWeb",
   "BasePath": "_content/BulkyWeb",
   "Mode": "Default",
@@ -1271,12 +1271,12 @@
       "OriginalItemSpec": "wwwroot\\images\\lawn_leaf.jpg"
     },
     {
-      "Identity": "D:\\Personal Projects\\BulkyWeb\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\images\\product\\0aef8487-da4d-4d91-bdcf-b45fa6ffc6fe.jpg",
+      "Identity": "D:\\Personal Projects\\BulkyWeb\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\images\\product\\product-1\\39de6ad9-a002-43ea-9d29-ba93c11c6e3a.jpg",
       "SourceId": "BulkyWeb",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Personal Projects\\BulkyWeb\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\",
       "BasePath": "_content/BulkyWeb",
-      "RelativePath": "images/product/0aef8487-da4d-4d91-bdcf-b45fa6ffc6fe.jpg",
+      "RelativePath": "images/product/product-1/39de6ad9-a002-43ea-9d29-ba93c11c6e3a.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1287,15 +1287,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\product\\0aef8487-da4d-4d91-bdcf-b45fa6ffc6fe.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\product\\product-1\\39de6ad9-a002-43ea-9d29-ba93c11c6e3a.jpg"
     },
     {
-      "Identity": "D:\\Personal Projects\\BulkyWeb\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\images\\product\\58dffac4-0389-486c-8fbb-ec01344f580f.jpg",
+      "Identity": "D:\\Personal Projects\\BulkyWeb\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\images\\product\\product-1\\92729bf2-f4ea-487b-baaa-808aa0dec747.jpg",
       "SourceId": "BulkyWeb",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Personal Projects\\BulkyWeb\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\",
       "BasePath": "_content/BulkyWeb",
-      "RelativePath": "images/product/58dffac4-0389-486c-8fbb-ec01344f580f.jpg",
+      "RelativePath": "images/product/product-1/92729bf2-f4ea-487b-baaa-808aa0dec747.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1306,26 +1306,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\product\\58dffac4-0389-486c-8fbb-ec01344f580f.jpg"
-    },
-    {
-      "Identity": "D:\\Personal Projects\\BulkyWeb\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\images\\product\\e6e9854e-3943-4efd-a790-3bb9c553084e.jpg",
-      "SourceId": "BulkyWeb",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Personal Projects\\BulkyWeb\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\",
-      "BasePath": "_content/BulkyWeb",
-      "RelativePath": "images/product/e6e9854e-3943-4efd-a790-3bb9c553084e.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\product\\e6e9854e-3943-4efd-a790-3bb9c553084e.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\product\\product-1\\92729bf2-f4ea-487b-baaa-808aa0dec747.jpg"
     },
     {
       "Identity": "D:\\Personal Projects\\BulkyWeb\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\js\\company.js",
@@ -1402,6 +1383,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\site.js"
+    },
+    {
+      "Identity": "D:\\Personal Projects\\BulkyWeb\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\js\\user.js",
+      "SourceId": "BulkyWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Personal Projects\\BulkyWeb\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\",
+      "BasePath": "_content/BulkyWeb",
+      "RelativePath": "js/user.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\user.js"
     },
     {
       "Identity": "D:\\Personal Projects\\BulkyWeb\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",

@@ -21,16 +21,12 @@
       "PackagePath": "staticwebassets\\images\\lawn_leaf.jpg"
     },
     {
-      "Id": "D:\\Personal Projects\\BulkyWeb\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\images\\product\\0aef8487-da4d-4d91-bdcf-b45fa6ffc6fe.jpg",
-      "PackagePath": "staticwebassets\\images\\product\\0aef8487-da4d-4d91-bdcf-b45fa6ffc6fe.jpg"
+      "Id": "D:\\Personal Projects\\BulkyWeb\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\images\\product\\product-1\\39de6ad9-a002-43ea-9d29-ba93c11c6e3a.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\product-1\\39de6ad9-a002-43ea-9d29-ba93c11c6e3a.jpg"
     },
     {
-      "Id": "D:\\Personal Projects\\BulkyWeb\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\images\\product\\58dffac4-0389-486c-8fbb-ec01344f580f.jpg",
-      "PackagePath": "staticwebassets\\images\\product\\58dffac4-0389-486c-8fbb-ec01344f580f.jpg"
-    },
-    {
-      "Id": "D:\\Personal Projects\\BulkyWeb\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\images\\product\\e6e9854e-3943-4efd-a790-3bb9c553084e.jpg",
-      "PackagePath": "staticwebassets\\images\\product\\e6e9854e-3943-4efd-a790-3bb9c553084e.jpg"
+      "Id": "D:\\Personal Projects\\BulkyWeb\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\images\\product\\product-1\\92729bf2-f4ea-487b-baaa-808aa0dec747.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\product-1\\92729bf2-f4ea-487b-baaa-808aa0dec747.jpg"
     },
     {
       "Id": "D:\\Personal Projects\\BulkyWeb\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\js\\company.js",
@@ -47,6 +43,10 @@
     {
       "Id": "D:\\Personal Projects\\BulkyWeb\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\Personal Projects\\BulkyWeb\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\js\\user.js",
+      "PackagePath": "staticwebassets\\js\\user.js"
     },
     {
       "Id": "D:\\Personal Projects\\BulkyWeb\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\LICENSE",
