@@ -15,6 +15,7 @@ namespace Bulky.DataAccess.Repository
         public ApplicationuserRepository(ApplicationDbContext db) : base(db)
         {
             _db = db;
+
         }
         public void Update(ApplicationUser applicationUser)
         {
