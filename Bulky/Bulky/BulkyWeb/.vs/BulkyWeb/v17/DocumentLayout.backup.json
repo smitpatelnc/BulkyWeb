@@ -3,6 +3,13 @@
   "WorkspaceRootPath": "D:\\Personal Projects\\BulkyWeb\\Bulky\\Bulky\\BulkyWeb\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6AF4C665-039F-4724-89DD-F81E3ED04ED9}|BulkyWeb.csproj|d:\\personal projects\\bulkyweb\\bulky\\bulky\\bulkyweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6AF4C665-039F-4724-89DD-F81E3ED04ED9}|BulkyWeb.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50C6F8F4-6B19-4D35-9D77-C2F29516888A}|..\\Bulky.DataAccess\\Bulky.DataAccess.csproj|d:\\personal projects\\bulkyweb\\bulky\\bulky\\bulky.dataaccess\\repository\\applicationuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6AF4C665-039F-4724-89DD-F81E3ED04ED9}|BulkyWeb.csproj|d:\\personal projects\\bulkyweb\\bulky\\bulky\\bulkyweb\\areas\\admin\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6AF4C665-039F-4724-89DD-F81E3ED04ED9}|BulkyWeb.csproj|solutionrelative:areas\\admin\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -39,12 +46,38 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Personal Projects\\BulkyWeb\\Bulky\\Bulky\\BulkyWeb\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Personal Projects\\BulkyWeb\\Bulky\\Bulky\\BulkyWeb\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-10T20:05:52.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationuserRepository.cs",
+              "DocumentMoniker": "D:\\Personal Projects\\BulkyWeb\\Bulky\\Bulky\\Bulky.DataAccess\\Repository\\ApplicationuserRepository.cs",
+              "RelativeDocumentMoniker": "..\\Bulky.DataAccess\\Repository\\ApplicationuserRepository.cs",
+              "ToolTip": "D:\\Personal Projects\\BulkyWeb\\Bulky\\Bulky\\Bulky.DataAccess\\Repository\\ApplicationuserRepository.cs",
+              "RelativeToolTip": "..\\Bulky.DataAccess\\Repository\\ApplicationuserRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T20:00:26.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "UserController.cs",
               "DocumentMoniker": "D:\\Personal Projects\\BulkyWeb\\Bulky\\Bulky\\BulkyWeb\\Areas\\Admin\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\UserController.cs",
               "ToolTip": "D:\\Personal Projects\\BulkyWeb\\Bulky\\Bulky\\BulkyWeb\\Areas\\Admin\\Controllers\\UserController.cs",
               "RelativeToolTip": "Areas\\Admin\\Controllers\\UserController.cs",
-              "ViewState": "AgIAAC8AAAAAAAAAAAAgwAUAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAkwAUAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-10T06:06:00.801Z",
               "EditorCaption": ""
